@@ -1,0 +1,11 @@
+.container{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    font: montserrat;
+    color: #5230db;
+}
+img, form{
+    display: inline-block;
+    vertical-align: top;
+}
